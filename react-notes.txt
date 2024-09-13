@@ -1,0 +1,6 @@
+props - are properties that child component receives from parent component that contain data
+useEffect hook - built-in hook that allows to create code as a side effect of something else
+useMemo - a hook that memorizes return values from functions if the values from dependency array dont change
+
+*** vratiti se ***
+module 3 - data fetching in React part 1 
