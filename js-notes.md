@@ -7,6 +7,8 @@ return num;   -- vraća vrijednost dodijeljenu varijabli num
 
 - in JavaScript, 1 + true gives 2, we might not notice that kind of bug, it might make it all the way to production
 
+- HTML represents the initial page content, whereas the DOM represents the updated page content which was changed by the JavaScript code you wrote
+
 ** Design patterns **
 
 - with design patterns we improve:
